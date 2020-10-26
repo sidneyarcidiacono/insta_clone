@@ -1,5 +1,21 @@
+body {
+  background-color: #C7B1B2;
+}
+
+input,
+input[type=search] {
+  background-color: ##E0DDDC;
+  color: ##E0DDDC;
+}
+
+.insta-logo{
+  width: 46px;
+  height: 46px;
+  padding: 0;
+}
+
 .link-menu {
-    color: black;
+    color: white;
 }
 
 .topbar-profile-photo {
@@ -70,4 +86,8 @@
 
 .sugest-username {
     font-size: 14px
+}
+
+.card {
+  background-color: ##E0DDDC;
 }
